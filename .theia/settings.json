@@ -1,0 +1,6 @@
+{
+    "navigator.exclude": {
+        ".vscode/**": true,
+        ".theia/**": true,
+    }
+}
