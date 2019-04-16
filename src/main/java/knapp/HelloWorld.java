@@ -9,7 +9,7 @@ public class HelloWorld {
 
     @GET
     public Response getRoot() {
-        return Response.ok("Hello, Knapp World!")
+        return Response.ok("Hello, Knapp World 3!")
                 .build();
     }
 } 
